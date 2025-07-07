@@ -10,6 +10,7 @@ I am an excellent team worker and very willing to learn and develop new skills
 * Git
 * Markdown
 ## Code Example
+```java
 ```javascript
 const func = (num) => {
   if (num > 0) {
@@ -19,6 +20,12 @@ const func = (num) => {
 };
 ```
 
+```
+
 ## Experience
 Not have
 ## Education
+* __Univercity:__ Vitebsk State Academy of Veterinary Medicine
+## English:
+__B2__ 
+
