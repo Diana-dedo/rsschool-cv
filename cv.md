@@ -11,7 +11,6 @@ I am an excellent team worker and very willing to learn and develop new skills
 * Markdown
 ## Code Example
 ```java
-```javascript
 const func = (num) => {
   if (num > 0) {
     return num - 1;
@@ -20,12 +19,9 @@ const func = (num) => {
 };
 ```
 
-```
-
 ## Experience
 Not have
 ## Education
 * __Univercity:__ Vitebsk State Academy of Veterinary Medicine
 ## English:
 __B2__ 
-
