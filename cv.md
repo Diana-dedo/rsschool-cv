@@ -18,7 +18,6 @@ const func = (num) => {
   return num + 1;
 };
 ```
-
 ## Experience
 Not have
 ## Education
