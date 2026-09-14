@@ -14,17 +14,17 @@ My main goal is to finish this course and find my first job in IT. I an a hard-w
 * JS
   ## Code Example
 js
-const title = document.getElementById("title");
+```const title = document.getElementById("title");
 const button = document.getElementById("button");
 
 button.addEventListener("click", function () {
   title.textContent = "Thank you for visiting my CV!";
 });
-
+```
 ## Experience
 Not have
 ## Education
 * _Univercity:_ Vitebsk State Academy of Veterinary Medicine
 ## English:
-_B1_ 
+_B1_ :
 I have years of experience living and working abroad. My English is B1, and I practice it daily.
